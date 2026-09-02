@@ -18,20 +18,3 @@
   border: 3px solid #8585ad;
   background: #8585ad;
 }
-
-.detailPageWrap {
-  margin: 120px auto;
-}
-
-.detailHeader {
-  text-align: center;
-}
-
-.title {
-  margin: 0 auto;
-}
-
-.error {
-  margin: 0 auto;
-  color: red;
-}
