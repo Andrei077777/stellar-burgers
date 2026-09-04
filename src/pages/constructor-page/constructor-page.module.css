@@ -19,3 +19,8 @@
   height: 100%;
   overflow: hidden;
 }
+
+.error {
+  margin: 0 auto;
+  color: #ff0000;
+}
